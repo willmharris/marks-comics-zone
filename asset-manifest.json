@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/marks-comic-zone/static/css/main.5f361e03.chunk.css",
+    "main.js": "/marks-comic-zone/static/js/main.237f1e33.chunk.js",
+    "main.js.map": "/marks-comic-zone/static/js/main.237f1e33.chunk.js.map",
+    "runtime-main.js": "/marks-comic-zone/static/js/runtime-main.70bcda13.js",
+    "runtime-main.js.map": "/marks-comic-zone/static/js/runtime-main.70bcda13.js.map",
+    "static/js/2.1da1c8c6.chunk.js": "/marks-comic-zone/static/js/2.1da1c8c6.chunk.js",
+    "static/js/2.1da1c8c6.chunk.js.map": "/marks-comic-zone/static/js/2.1da1c8c6.chunk.js.map",
+    "index.html": "/marks-comic-zone/index.html",
+    "precache-manifest.5767ad5ae8bffd7863e3df42d44665b3.js": "/marks-comic-zone/precache-manifest.5767ad5ae8bffd7863e3df42d44665b3.js",
+    "service-worker.js": "/marks-comic-zone/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/marks-comic-zone/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.1da1c8c6.chunk.js.LICENSE.txt": "/marks-comic-zone/static/js/2.1da1c8c6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/marks-comic-zone/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70bcda13.js",
+    "static/js/2.1da1c8c6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.237f1e33.chunk.js"
+  ]
+}
